@@ -16,7 +16,13 @@
       "id": 3,
       "text": "Going to the Park",
       "day": "May 8th 9:30pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "Test Task",
+      "day": "May 8th",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
